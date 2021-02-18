@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.beer-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+ul {
+  height: 20vh;
+  overflow: scroll;
+}
+
+li {
+  list-style: none;
+  padding: 5px;
+}
+
+li:hover {
+  font-size: 2rem;
+}
+
+body{
+  background-color: rgb(247, 176, 132);
+}
